@@ -1,0 +1,16 @@
+{
+  "name": "demo2_httpserver",
+  "version": "1.0.0",
+  "description": "demo api http method",
+  "license": "ISC",
+  "author": "lpn",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
